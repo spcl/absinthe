@@ -1,0 +1,8 @@
+IN*
+*.cpp
+*.o
+*.sol
+*.lp
+*.out
+*.sh
+Makefile
