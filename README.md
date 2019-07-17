@@ -73,7 +73,7 @@ slow memory / ddr
 
 ## Optimization
 
-We next set the machine parameters for the example stencil sequences in the files fastwaves.py, advection.py, and diffusion.py.
+We next set the machine parameters in the files fastwaves.py, advection.py, and diffusion.py which implement the example stencil sequences.
 
 ```
 "MACHINE" : {"CORES" : 4, "CAPACITY" : 85*1024},
